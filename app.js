@@ -1,4 +1,4 @@
-const yourDate = new Date("2023-03-10T00:00:00");
+const yourDate = new Date("2023-02-28T00:00:00");
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
